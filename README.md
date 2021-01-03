@@ -47,6 +47,8 @@ FemtoIDE manages everything in-house. When you generate a java project in FemtoI
 
 #### Porting Brick Breaker
 
+Sample project repo: https://github.com/Torbuntu/BrickPort_Pokitto
+
 Mini2Dx has a collection of sample projects for folks to see the framework in action. Here we will port [Brick Breaker Sample](https://github.com/mini2Dx/mini2Dx-sample-breakout) to Javitto.
 
 Start by making a new Javitto project. I'm calling mine BrickPort. I also went ahead and cleared out the template to the most basic pieces:
