@@ -6,6 +6,8 @@ A primer on transitioning from Mini2Dx development to Javitto on Pokitto
   - [Mini2Dx](#mini2dx)
   - [Javitto](#javitto)
 - [Major Differences](#major-differences)
+  - [Javitto is not 'java'](#javitto-is-not-java)
+  - [Build System](#build-system)
 
 ## Introduction
 #### [Mini2Dx](https://mini2dx.org/) 
